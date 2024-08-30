@@ -6,6 +6,8 @@ há uma classe positiva e uma classe negativa. Ela vem do modelo de logística B
 O dataset contém dados sobre a possibilidade do desenvolvimento de doenças cardíacas e o caderno foi desenvolvido baseado em uma aula do canal Nerd dos Dados.
 
 ## Curva ROC
+
+A curva que estiver mais próxima do canto superior esquerdo, será o modelo com mais acurácia.
 <div align="center">
   <img src="https://github.com/CamilaDeAlm/CURVA-ROC-para-AVALIAR-um-modelo-de-Machine-Learning/blob/main/folder/Captura%20de%20tela%202024-08-30%20154307.png" alt="Exemplo" width="largura" height="altura">
 </div>
