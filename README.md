@@ -3,7 +3,7 @@
 A curva ROC (Receiver Operating Characteristic) e o indicador AUC (Area Under the Curve) são ferramentas usadas para avaliar o desempenho de modelos de classificação, especialmente quando 
 há uma classe positiva e uma classe negativa. Ela vem do modelo de logística Binária, que possui variável dependente qualitativa e com duas categorias (Dummy).
 
-O dataset contém dados sobre a possibilidade do desenvolvimento de doenças cardíacas e o caderno foi desenvolvido baseado em uma aula do canal Nerd dos Dados.
+O dataset contém dados sobre a possibilidade do desenvolvimento de doenças cardíacas.
 
 ## Curva ROC
 
